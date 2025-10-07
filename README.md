@@ -4,7 +4,7 @@ A sophisticated dashboard and control plane for a real-time AI video analytics p
 
 Aegis Vision is a sophisticated, visually stunning dashboard and control plane for a next-generation, AI-driven video analytics platform. This application provides the complete, high-fidelity user interface for managing and monitoring such a system. Users can view simulated live video feeds, receive real-time alerts, configure camera streams and detection zones, and analyze historical data through interactive charts and reports. The application is designed as a masterpiece of data visualization and user experience, providing a seamless and intuitive 'mission control' for complex security and operational monitoring.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/AegisVision-20251007-025031)
 
 ## Key Features
 
